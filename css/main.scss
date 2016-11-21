@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>NickBoone | GDM | Arteveldehogeschool</title>
-    </head>  
-    <body>
-        <h2> HAllo wereld</h2>
-    </body>      
-</html>
+---
+---
+
+$ahsc: hsl(120deg, 50%, 50%);
+body {
+  background-color: $ahsc;
+  color: lighten($ahsc, 100%);
+}
