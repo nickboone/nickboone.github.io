@@ -37,3 +37,8 @@ exclude:
   - Gemfile
   - LICENSE
   - README.md
+
+# Collections
+collections:
+  olods:
+    output: false

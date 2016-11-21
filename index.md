@@ -15,6 +15,14 @@ HOIdsds
     {% endfor %}
 </ul>
 
+<ul class="olods">
+    {% for olod in site.olods %}
+    <li>
+        {{ olod.name }}
+    </li>
+    {% endfor %}
+</ul>
+
 SLA
 ===
 
